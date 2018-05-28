@@ -1,0 +1,45 @@
+/////
+//
+// Better Boilerplate Base Options
+// All base options can be either true or false
+//
+/////
+
+	// Generate Styles for the Breakpoint Identifier
+		$use-breakpoint-identifier: false;
+
+	// Use Font Smoothing
+		$use-font-smoothing: false;
+
+	// Generate Colour Classes
+		$use-color-classes: false;
+
+	// Generate Login Form Styles
+		$use-wordpress-login-styles: false;
+
+	// Turn on the HTML Validator
+		$use-html-validator: false;
+
+/////
+//
+// Helper Styles
+//
+/////
+
+	// Include Visibility Styles
+		$use-helper-visibility-styles: false;
+
+	// Include Display Styles
+		$use-helper-display-styles: false;
+
+	// Include Position Styles
+		$use-helper-position-styles: false;
+
+	// Include Text Styles
+		$use-helper-text-styles: false;
+
+	// Include Padding Styles
+		$use-helper-padding-styles: false;
+
+	// Include Margin Styles
+		$use-helper-margin-styles: false;
